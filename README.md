@@ -1,2 +1,2 @@
 # encryptionSystem
-First, a verilog code that records the password you entered and then validates the password you entered and turns on certain leds as the case may be.
+A verilog code that firstly records the password you entered and then validates the password you entered and turns on certain leds as the case may be.
